@@ -23,5 +23,6 @@ var exybore = {
     discordDesc: 'Want quick support, help or question ? Just join the Discord server right here ! You can also chat with the community',
     bopDesc: 'This is my french blog, with other members. You can found numeric and informatic news, and programming courses.',
     sitemap: 'Sitemap',
-    contact: 'Contact'
+    contact: 'Contact',
+    switchToLang: 'Set language to French'
 };

@@ -23,5 +23,7 @@ var exybore = {
     discordDesc: 'Want quick support, help or question ? Just join the Discord server right here ! You can also chat with the community',
     bopDesc: 'Ceci est mon blog, avec d\'autres membres. Vous pouvez trouver des articles sur l\'informatique et le numérique, ainsi que des tutoriels de programmation.',
     sitemap: 'Sitemap',
-    contact: 'Contact'
+    contact: 'Contact',
+    switchToLang: 'Mettre le site en Anglais'
 };
+
