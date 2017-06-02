@@ -1,12 +1,12 @@
 var exybore = {
     mainTitle: 'Exybore - Projets de dév\'',
-    description: 'Immergez-vous dans le monde de la programmation',
+    description: 'Immergez-vous dans le fabuleux monde de la programmation',
     home: 'Accueil',
     projects: 'Projets',
     social: 'Social',
     about: 'A propos',
     discover: 'Découvrez les derniers projets',
-    discoverDesc: 'There are many projects on this website and you can choose to contribute to them, or simply download them for testing and using at home.',
+    discoverDesc: 'Il y a beaucoup de projets sur le site et vous pouvez choisir de contribuer à eux, ou simplement de les télécharger afin de les tester et les utiliser chez vous.',
     openSource: 'Open-Source',
     simple: 'Simple',
     useful: 'Utiles',
@@ -15,15 +15,16 @@ var exybore = {
     usefulDesc: 'Les projets peuvent être combinés avec les votres pour faire un méga projet',
     gotoProjects: 'Aller sur la page des projets',
     news: 'Les dernières nouveautés',
-    newsDesc: 'Here is the most important news provided from social networks. If you want more contacts, go to the <a href="social">social networks</a> page.',
+    newsDesc: 'Ici sont les nouveautés les plus importantes en provenances des réseaux sociaux. Si vous voulez avoir plus de contact, allez sur la page des <a href="social">réseaux sociaux</a>.',
     twitter: 'Twitter',
     discord: 'Discord',
     bop: 'BecauseOfProg',
-    twitterDesc: 'My news place, where I often post informations or other fun stuff. You can tweet me for any question !',
-    discordDesc: 'Want quick support, help or question ? Just join the Discord server right here ! You can also chat with the community',
+    twitterDesc: 'Mon endroit à nouveautés, où je poste souvent des informations et autres trucs funs. Vous pouvez aussi me tweeter pour toute question !',
+    discordDesc: 'Vous voulez un support ou une question rapide ? Rejoignez-donc mon serveur Discord juste en dessous ! Vous pouvez aussi discuter avec la communauté.',
     bopDesc: 'Ceci est mon blog, avec d\'autres membres. Vous pouvez trouver des articles sur l\'informatique et le numérique, ainsi que des tutoriels de programmation.',
     sitemap: 'Sitemap',
     contact: 'Contact',
-    switchToLang: 'Mettre le site en Anglais'
+    translate: 'Vous voulez traduire le site ?',
+    translateDesc: '<a href="https://github.com/Exybore/exy-trad-platform">Allez ici</a> et choisissez la langue sur laquelle vous voulez apporter votre contribution !'
 };
 

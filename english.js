@@ -24,5 +24,6 @@ var exybore = {
     bopDesc: 'This is my french blog, with other members. You can found numeric and informatic news, and programming courses.',
     sitemap: 'Sitemap',
     contact: 'Contact',
-    switchToLang: 'Set language to French'
+    translate: 'Want to help translating the website ?',
+    translateDesc: '<a href="https://github.com/Exybore/exy-trad-platform">Just go here</a> and choose the language you want to contribute for !'
 };
