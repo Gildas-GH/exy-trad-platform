@@ -25,6 +25,6 @@ var exybore = {
     sitemap: 'Sitemap',
     contact: 'Contact',
     translate: 'Vous voulez traduire le site ?',
-    translateDesc: '<a href="https://github.com/Exybore/exy-trad-platform">Allez ici</a> et choisissez la langue sur laquelle vous voulez apporter votre contribution !'
+    translateDesc: '<a href="https://github.com/Exybore/exy-trad-platform">Allez ici</a> ou choisissez la langue sur laquelle vous voulez apporter votre contribution juste en dessous !'
 };
 
